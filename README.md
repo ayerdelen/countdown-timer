@@ -6,7 +6,7 @@ I coded Countdown Timer for learning purposes.
 
 ---
 
-[Click to see]()
+[Click to see](https://ayerdelen.github.io/countdown-timer/CountdownTimer-JS/)
 
 ![.](ss.png)
 
